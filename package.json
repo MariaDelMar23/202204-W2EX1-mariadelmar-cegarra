@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "compile sass": "sass sass/style.scss css/style.css -w",
+    "compile-sass": "sass sass/style.scss css/style.css -w",
     "build-site": "sass sass/style.scss css/style.css",
     "prepare": "husky install"
   },
