@@ -1,0 +1,24 @@
+{
+  "name": "202204-w2ex1-mariadelmar-cegarra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaDelMar23/202204-W2EX1-mariadelmar-cegarra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaDelMar23/202204-W2EX1-mariadelmar-cegarra/issues"
+  },
+  "homepage": "https://github.com/MariaDelMar23/202204-W2EX1-mariadelmar-cegarra#readme",
+  "devDependencies": {
+    "sass": "^1.50.0",
+    "husky": "^7.0.0"
+  }
+}
