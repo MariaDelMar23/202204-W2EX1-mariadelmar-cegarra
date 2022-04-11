@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/MariaDelMar23/202204-W2EX1-mariadelmar-cegarra#readme",
   "devDependencies": {
-    "sass": "^1.50.0"
+    "sass": "^1.50.0",
+    "husky": "^7.0.0"
   }
 }
